@@ -1,7 +1,3 @@
-# About me
-I am an AI enthusiast and Computer Science graduate student at the University of Florida, passionate about solving real-world problems through intelligent systems. With hands-on experience in NLP, deep learning, and data-driven innovation. I bring both technical depth and creative thinking to every project I take on.
-
-I’m someone who’s full of ideas, thrives in collaborative environments, and values learning as much as contributing. I’m excited to bring my curiosity, energy, and strong foundation in AI to a team that’s as driven by impact as I am.
 
 # Sudhira Chegu - AI/ML Engineer & Data Scientist
 
@@ -9,12 +5,13 @@ I’m someone who’s full of ideas, thrives in collaborative environments, and 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sudhiracodes)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhira.chegu@gmail.com)
 
-> 🚀 AI enthusiast and Computer Science graduate student passionate about solving real-world problems through intelligent systems. Experienced in NLP, deep learning, and data-driven innovation with a focus on impactful solutions.
+
 ## About Me
 
 I am an AI enthusiast and Computer Science graduate student at the University of Florida, passionate about solving real-world problems through intelligent systems. With hands-on experience in NLP, deep learning, and data-driven innovation, I bring both technical depth and creative thinking to every project I take on.
 
 I'm someone who's full of ideas, thrives in collaborative environments, and values learning as much as contributing. I'm excited to bring my curiosity, energy, and strong foundation in AI to a team that's as driven by impact as I am.
+
 ---
 
 ##  Education
